@@ -127,7 +127,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " Love you babe:*";
 
 var size = 15;
 
