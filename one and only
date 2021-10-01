@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-<head><title>Hai vi</title>
+<head><title>Hai gntg</title>
 <!-- Created By L3M4R1 -->
 <script>alert ('hai')
 alert ('happy 7 month')</script>
@@ -12,12 +12,12 @@ function tb5_makeArray(n){
 }
  
 tb5_messages = new tb5_makeArray(7);
-tb5_messages[0] = "Hay gantemh";
+tb5_messages[0] = "Hay ganteng";
 tb5_messages[1] = "Aku Mau Kamu Tau";
 tb5_messages[2] = "Aku Sayang Sama Kamu";
 tb5_messages[3] = "Aku Serius";
 tb5_messages[4] = "jangan tinggalin aku ya";
-tb5_messages[5] = "Aku berharap kamu menerimanya";
+tb5_messages[5] = "Aku harap kamu ga bosen sama aku";
 tb5_messages[6] = "I Love You gantengku!!!";
 tb5_rptType = 'infinite';
 tb5_rptNbr = 20;
